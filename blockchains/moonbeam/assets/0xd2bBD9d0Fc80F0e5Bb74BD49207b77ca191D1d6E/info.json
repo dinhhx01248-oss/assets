@@ -1,11 +1,22 @@
 {
-    "name": "eCNY",
-    "website": "https://github.com/dinhhx01248-oss/assets",
-    "description": "eCNY is a digital token representing the Chinese Yuan on Moonbeam network.",
-    "explorer": "https://moonbeam.moonscan.io/token/0xd2bBD9d0Fc80F0e5Bb74BD49207b77ca191D1d6E",
-    "type": "ERC20",
-    "symbol": "eCNY",
-    "decimals": 6,
-    "status": "active",
-    "id": "0xd2bBD9d0Fc80F0e5Bb74BD49207b77ca191D1d6E"
+  "name": "eCNY",
+  "website": "https://github.com/dinhhx01248-oss/assets",
+  "description": "eCNY is a digital token representing the Chinese Yuan on Moonbeam network.",
+  "explorer": "https://etherscan.io/token/0xd2bBD9d0Fc80F0e5Bb74BD49207b77ca191D1d6E",
+  "type": "ERC20",
+  "symbol": "eCNY",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xd2bBD9d0Fc80F0e5Bb74BD49207b77ca191D1d6E",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/dinhhx01248-oss"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com"
+    }
+  ],
+  "tags": ["stablecoin"]
 }
